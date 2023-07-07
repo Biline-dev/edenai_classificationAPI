@@ -1,5 +1,5 @@
-saved_models/**/
-
+#saved_models/**/
+eden_env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
