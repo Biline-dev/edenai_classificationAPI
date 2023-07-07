@@ -1,5 +1,0 @@
-outs:
-- md5: a829ac9ece8603f50be753dd723c7607
-  size: 94430111
-  hash: md5
-  path: resnet_all_model_state.pth
