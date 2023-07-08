@@ -49,3 +49,8 @@ docker run -d -p 8000:8000 image_name
 
 ## Testing
 Run the file **test.py** to try our API. Make sure to change the **ip** address of the endpoint link if necessary.
+
+
+## Example
+#### Simulating the solution :
+![Interface](https://www.pixenli.com/image/pXlwrB3D)
