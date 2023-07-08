@@ -22,6 +22,8 @@ performance and efficient execution time.
 
 **Key words :** Deep Learning, Natural Language Processing (NLP), computer vision (CV), Document understanding, OCR.
 
+[Link to the thesis](https://drive.google.com/file/d/1hfHIWxgPkZVCznKsId2CUNPq4URHMbP5/view)
+
 ## Installation
 
 Use these commands to install the dependencies on a virtual environment.
